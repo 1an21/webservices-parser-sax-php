@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<blog>
+	<user> 
+		<name>Antoine</name>
+		<login>an21</login>
+		<pass>an21_12na</pass>
+		<access>admin</access>
+		<age>21</age>
+	</user>
+	<user>
+		<name>Max</name>
+		<login>max_228</login>
+		<pass>kek</pass>
+		<access>user</access>
+		<age>19</age>
+	</user>
+	<material>
+		<title>Features FL Studio 12</title>
+		<date_create>21-10-2017</date_create>
+		<content>FL Studio is an excellent sequencer for those who want to create bits. A handy Explorer window and editing windows like a playlist, piano keyboard or a pattern window will help you to work the way you want. Thanks to the mixer with precise settings and a large library of plug-ins, FL Studio is an excellent application for editing audio.</content>
+		<user>an21</user>
+	</material>
+	<material>
+		<title>Dynamo - Shakhtar</title>
+		<date_create>22-10-2017</date_create>
+		<content>Dynamo and Shakhtar have failed to reveal the winner</content>
+		<user>max_228</user>
+	</material>
+</blog>

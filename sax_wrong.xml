@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<blog>
+	<user> 
+		<name>Antoine</name>
+		<login>an21</login1>
+		<pass>an21_12na</pass>
+		<access>admin</access>
+		<age>21</age>
+	</user>
+	<user>
+		<name>Max</name>
+		<login>max_228</login>
+		<pass>kek</pass>
+		<access>user</access>
+		<age>19</age>
+	</user>
+	
